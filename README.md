@@ -1,3 +1,3 @@
 # کلیک کن
 
-#### [سورس تله دیاموند](http://github.com/Mohammadrezar/telediamond/tree/supergroups)
+# [سورس تله دیاموند](http://github.com/Mohammadrezar/telediamond/tree/supergroups)
